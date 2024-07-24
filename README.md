@@ -1,4 +1,4 @@
-# DATA-ANALYSIS---HOTEL-BOOKING-
+# DATA-ANALYSIS-HOTEL BOOKING
 
 ## Hotel Booking Analysis - Exploratory Data Analysis (EDA)
 
